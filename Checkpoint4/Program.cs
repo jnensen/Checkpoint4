@@ -8,6 +8,8 @@ namespace Checkpoint4
         {
             Console.WriteLine("Hello World!!");
             Console.WriteLine("Best movies ever!");
+
+            Console.WriteLine("Copyright Johan 2018 :)");
         }
     }
 }
