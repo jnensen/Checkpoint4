@@ -11,7 +11,7 @@ namespace Checkpoint4
 
             string[] movieList = new string[5];
 
-
+            movieList[0] = "Battle of Justice";
 
         }
     }
