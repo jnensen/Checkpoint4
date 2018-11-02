@@ -12,12 +12,15 @@ namespace Checkpoint4
 
             string[] movieList = new string[5];
 
+            movieList[0] = "Battle of Justice";
+
            
             for (int i = 0; i < movieList.Length - 1; i++)
             {
                if (movieList[i] != "null")
                     Console.WriteLine(movieList[i]);
             }
+
 
         }
     }
