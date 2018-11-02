@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 
 namespace Checkpoint4
 {
@@ -11,7 +12,12 @@ namespace Checkpoint4
 
             string[] movieList = new string[5];
 
-
+           
+            for (int i = 0; i < movieList.Length - 1; i++)
+            {
+               if (movieList[i] != "null")
+                    Console.WriteLine(movieList[i]);
+            }
 
         }
     }
