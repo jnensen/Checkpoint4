@@ -13,6 +13,7 @@ namespace Checkpoint4
 
             movieList[4] = "Infinite Humiliation";
 
+            Console.WriteLine("Copyright Johan 2018 :)");
         }
     }
 }
