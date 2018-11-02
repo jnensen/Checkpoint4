@@ -8,6 +8,11 @@ namespace Checkpoint4
         {
             Console.WriteLine("Hello World!!");
             Console.WriteLine("Best movies ever!");
+
+            string[] movieList = new string[5];
+
+
+
         }
     }
 }
