@@ -11,6 +11,7 @@ namespace Checkpoint4
 
             string[] movieList = new string[5];
 
+            movieList[3] = "Triple Trouble";
 
 
         }
